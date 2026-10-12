@@ -1,76 +1,75 @@
-[README.md](https://github.com/user-attachments/files/29785241/README.md)
-<h1 align="center">Hi there, I'm Muhammad Abdullah 👋</h1>
+# Hi, I'm Muhammad Abdullah 👋
 
-<h3 align="center">Software Engineer | Flutter Developer | Full stack Developer</h3>
+### Full-Stack Developer (React, Node.js) & Flutter Developer | Real-Time Web & Mobile Apps
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆-1st%20Place%20Winner%2C%20Open%20House%202026-gold" alt="Award"/>
-  <img src="https://img.shields.io/badge/🥈-Runner--Up%2C%20Intl%20Student%20Convention%202026-silver" alt="Award"/>
-</p>
+![Winner](https://img.shields.io/badge/🏆-1st%20Place%20Winner%2C%20Open%20House%202026-gold)
+![Runner-Up](https://img.shields.io/badge/🥈-Runner--Up%2C%20Intl%20Student%20Convention%202026-silver)
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Software Engineer
-- 📱 Passionate about building cross-platform mobile apps with **Flutter & Dart**
-- 🎨 Experienced in **UI/UX design** using Figma, Adobe Illustrator & Photoshop
-- 🤖 Exploring **Computer Vision & Deep Learning** for real-world safety applications
-- 💼 Interned as a **Software Engineer** at Heavy Industries Taxila
-- 🏆 Multi-award-winning developer — 1st place at Open House & Job Fair 2026
-- 🌱 Currently sharpening skills in full-stack web development (Laravel, PHP)
+- 🎓 Software Engineer, BS Software Engineering, University of Wah (2026)
+- 💻 Building real-time web and mobile apps with **React, Node.js, PostgreSQL, Supabase & Flutter**
+- 💼 Full-Stack Development Intern at **Red Buffer**; Software Engineer Intern at **Heavy Industries Taxila**
+- 🎨 UI/UX design with Figma, Adobe Illustrator & Photoshop
+- 🤖 Computer Vision & Deep Learning for real-world safety applications
+- 🏆 Multi-award-winning developer: 1st place at Open House & Job Fair 2026
+- 📫 Open to freelance projects and remote roles
+
+🌐 **Portfolio:** https://abdullahdevfolio.netlify.app
+💼 **LinkedIn:** [YOUR LINKEDIN URL]
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Mobile Development**
+**Web**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+**Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 **Backend & Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Design Tools**
+**DevOps & Languages**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
 
-- 🚗 **[Auto Aid](#)** — Roadside mechanic service app (Flutter, real-time GPS, push notifications) — 🏆 1st Place Winner, Open House 2026
-- 🛡️ **[Violence & Weapon Detection System](#)** — Real-time deep learning-based threat detection for surveillance (Python, CV)
-- 📄 **[CV Craft](#)** — Cross-platform resume builder app with PDF export (Flutter, Dart)
-- 🎖️ **[E-Catalogue — Al-Zarrar Tank](#)** — Interactive digital catalogue built in Unity for Heavy Industries Taxila
-- 🗳️ **[Awam Connect – KP](#)** — Civic engagement platform with in-app voting & complaint portal (Flutter, Firebase)
+- 🔌 **[APIForge](https://github.com/Abdullah-584/REPO-NAME)**: real-time API testing & collaboration platform with team workspaces, 2FA, Stripe billing, mock servers and AI request generation *(React, Node.js, PostgreSQL)*
+- 🚗 **[Auto Aid](https://github.com/Abdullah-584/REPO-NAME)**: roadside mechanic app with live GPS, booking and push notifications. 🏆 1st Place, Open House 2026 *(Flutter)*
+- 📂 **[LocalDrop](https://github.com/Abdullah-584/REPO-NAME)**: cloud-free LAN file sharing desktop app with resumable transfers, QR handoff and automated Windows/macOS releases *(Electron, React, Node.js, GitHub Actions)*
+- ✍️ **[Inkwell](https://github.com/Abdullah-584/REPO-NAME)**: Google Docs-style collaborative editor with CRDT sync over WebSockets *(Node.js, Yjs, JWT)*
+- 💬 **[Gapshap](https://github.com/Abdullah-584/REPO-NAME)**: real-time messaging app with group chat, stories and row-level security *(Flutter, Riverpod, Supabase)*
 
-> 💡 Tip: Replace the `#` links above with your actual GitHub repo URLs once you create the profile README repo.
+### 📦 More Projects
+
+- 🛡️ **[Violence & Weapon Detection System](https://github.com/Abdullah-584/REPO-NAME)**: real-time deep-learning threat detection for surveillance *(Python, CV)*
+- 📄 **[CV Craft](https://github.com/Abdullah-584/REPO-NAME)**: cross-platform resume builder with PDF export *(Flutter, Dart)*
+- 🗳️ **[Awam Connect, KP](https://github.com/Abdullah-584/REPO-NAME)**: civic engagement platform with in-app voting and complaint portal *(Flutter, Firebase)*
+- 🎖️ **E-Catalogue, Al-Zarrar Tank**: interactive digital catalogue built in Unity for Heavy Industries Taxila
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Work Together
 
-<p align="left">
-  <a href="mailto:chabdullah1472@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+Have a product idea or need a developer? Email me at chabdullah1472@gmail.com or visit my portfolio.
 
 📍 Wah Cantt, Pakistan
-
----
-
-<p align="center"><i>Building things that matter — one commit at a time.</i></p>
