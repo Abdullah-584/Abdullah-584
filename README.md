@@ -18,7 +18,7 @@
 - 📫 Open to freelance projects and remote roles
 
 🌐 **Portfolio:** https://abdullahdevfolio.netlify.app
-💼 **LinkedIn:** [YOUR LINKEDIN URL]
+💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-abdullah-506626367/
 
 ---
 
