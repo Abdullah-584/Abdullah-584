@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/29785241/README.md)
 <h1 align="center">Hi there, I'm Muhammad Abdullah 👋</h1>
 
-<h3 align="center">Software Engineering Student | Flutter Developer | Computer Vision Enthusiast</h3>
+<h3 align="center">Software Engineer | Flutter Developer | Full stack Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆-1st%20Place%20Winner%2C%20Open%20House%202026-gold" alt="Award"/>
